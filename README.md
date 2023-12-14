@@ -32,8 +32,8 @@ WHEN I click on the "New Note" button in the navigation at the top of the page
 THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand column and the button disappears
 ```
 
-Deployed URL: 
-GitHub Repo URL: 
+Heroku URL: https://note-taker-express-js-sm-b96253ac2fdd.herokuapp.com/  
+GitHub Repo URL: https://github.com/simonmoore23/Note-taker-express-js
 
 ## Description
 
